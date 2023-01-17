@@ -2,7 +2,6 @@
 
 ## I'm a Backend Developer
 - 💪 I like to write code
-- 🤹🏽 I like to shoot videos for youtube 
 
 ### Connect with me:
 
