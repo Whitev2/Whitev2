@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **on Udemy, ML-courses**
 
-- 📫 How to reach me **https://t.me/X_0x69**
+- 📫 How to reach me **https://t.me/whitev2**
 
 - ⚡ Fun fact **AI learns a person faster than a person learns artificial intelligence**
 
