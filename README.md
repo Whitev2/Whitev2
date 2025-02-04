@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maks ( Whitev2 )</h1>
-<h3 align="center">Passionate backend developer. I develop all kinds of APIs, telegram bots, integrations and recently started learning about machine learning (it's something worthwhile)</h3>
+<h3 align="center">Teamlead/PO</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitev2" alt="whitev2" /></a> </p>
 
-
-- 🌱 I’m currently learning **on Udemy, ML-courses**
-
-- 📫 How to reach me **https://t.me/whitev2**
 
 - ⚡ Fun fact **AI learns a person faster than a person learns artificial intelligence**
 
